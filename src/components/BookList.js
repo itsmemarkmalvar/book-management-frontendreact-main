@@ -39,7 +39,7 @@ const BookList = () => {
   return (
     <>
       <div className="nav-header">
-        <h1 className="nav-title">Book Management System</h1>
+        <h1 className="nav-title">Book System</h1>
       </div>
       <div className="book-list">
         <Link to="/add-book" className="add-button">+ Add New Book</Link>
